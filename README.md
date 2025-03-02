@@ -37,9 +37,3 @@
 <img align="right" height="250" src="https://media1.tenor.com/m/2z7NVAVjM_YAAAAd/guts-berserk.gif"  />
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/RockHead07/RockHead07/output/snake.svg" alt="Snake animation" />
-
-###
