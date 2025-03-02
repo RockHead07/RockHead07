@@ -1,4 +1,4 @@
-<h3 align="left">Hi 👋! My name is Bagus Insan Pradana and I'm a Junior in Informatic Engineering, from Politeknik Elektronika Negeri Surabaya!</h3>
+<h3 align="left">Hi 👋! My name is Bagus Insan Pradana and I'm a Junior in Informatic Engineering, from Politeknik Elektronika Negeri Surabaya!!!</h3>
 
 ###
 
