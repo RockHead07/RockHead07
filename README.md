@@ -1,4 +1,4 @@
-![Metrics](https://github.com/RockHead07/RockHead07/blob/main/metrics.svg)
+![Metrics](https://raw.githubusercontent.com/RockHead07/RockHead07/main/github-metrics.svg)
 
 ###
 
