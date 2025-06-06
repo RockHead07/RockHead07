@@ -4,9 +4,9 @@
 
 ### 📊 GitHub Metrics
 
-![Medias](https://gist.githubusercontent.com/YOUR_USERNAME/GIST_ID/raw/medias.svg)
-![Achievements](https://gist.githubusercontent.com/YOUR_USERNAME/GIST_ID/raw/achievements.svg)
-![General](https://gist.githubusercontent.com/YOUR_USERNAME/GIST_ID/raw/general.svg)
+![Medias](https://gist.githubusercontent.com/RockHead07/a30e4cb98393938dc0429cd9eabf4147/raw/medias.svg)
+![Achievements](https://gist.githubusercontent.com/RockHead07/a30e4cb98393938dc0429cd9eabf4147/raw/achievements.svg)
+![General](https://gist.githubusercontent.com/RockHead07/a30e4cb98393938dc0429cd9eabf4147/raw/general.svg)
 
 
 # 🤹 My Skill
