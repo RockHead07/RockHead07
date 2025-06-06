@@ -3,13 +3,14 @@
 **I'm** *Bagus Insan Pra**Dana*** - I'm a Begginer web-developer, C-Programmer, & **PENS** Student. 
 
 ### 📺 Media Metrics
-![Medias](https://gist.githubusercontent.com/RockHead07/GIST_ID/raw/medias.svg)
+![Medias](https://gist.githubusercontent.com/RockHead07/a30e4cb98393938dc0429cd9eabf4147/raw/medias.svg)
 
 ### 🏆 Achievements
-![Achievements](https://gist.githubusercontent.com/RockHead07/GIST_ID/raw/achievements.svg)
+![Achievements](https://gist.githubusercontent.com/RockHead07/a30e4cb98393938dc0429cd9eabf4147/raw/achievements.svg)
 
 ### 📊 General Metrics
-![General](https://gist.githubusercontent.com/RockHead07/GIST_ID/raw/general.svg)
+![General](https://gist.githubusercontent.com/RockHead07/a30e4cb98393938dc0429cd9eabf4147/raw/general.svg)
+
 
 # 🤹 My Skill
 
