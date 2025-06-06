@@ -59,5 +59,6 @@
   </a>
 </div>
 
-![snake gif](https://github.com/yusriltakeuchi/yusriltakeuchi/blob/output/github-snake.gif)
+### 🐍 Contribution Snake
 
+![snake gif](https://github.com/yusriltakeuchi/yusriltakeuchi/blob/output/github-snake.gif)
