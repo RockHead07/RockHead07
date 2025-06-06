@@ -1,18 +1,6 @@
-<h3 align="">Hi 👋! My name is Bagus Insan Pradana and I'm a Junior in Informatic Engineering, from Politeknik Elektronika Negeri Surabaya!</h3>
-
-
-###
-
-<div align="center">
-  <img height="480" src="https://images2.alphacoders.com/666/thumb-1920-666358.jpg"  />
-</div>
+![Metrics](https://github.com/RockHead07/RockHead07/blob/master/metrics.svg)
 
 ###
-
----
-
-![Metrics](./metrics.svg)
-
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=RockHead07&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=graywhite&locale=en&hide_border=false&order=1" height="140" alt="stats graph"  />
