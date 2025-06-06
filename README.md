@@ -62,6 +62,6 @@
   </a>
 </div>
 
-### 🐍 Contribution Snake
+### 🐍 Contribution Snake (Dark, Transparent SVG)
 
-![snake gif](https://github.com/RockHead07/RockHead07/blob/output/github-snake-dark.gif?raw=true)
+![snake svg](https://github.com/RockHead07/RockHead07/blob/output/github-snake-dark.svg)
