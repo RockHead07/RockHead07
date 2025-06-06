@@ -2,7 +2,12 @@
 
 **I'm** *Bagus Insan Pra**Dana*** - I'm a Begginer web-developer, C-Programmer, & **PENS** Student. 
 
-<img src="/github-metrics.svg" alt="Metrics" width="400">
+### 📊 GitHub Metrics
+
+![Medias](https://gist.githubusercontent.com/YOUR_USERNAME/GIST_ID/raw/medias.svg)
+![Achievements](https://gist.githubusercontent.com/YOUR_USERNAME/GIST_ID/raw/achievements.svg)
+![General](https://gist.githubusercontent.com/YOUR_USERNAME/GIST_ID/raw/general.svg)
+
 
 # 🤹 My Skill
 
