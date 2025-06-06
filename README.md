@@ -1,4 +1,4 @@
-![Metrics](https://raw.githubusercontent.com/RockHead07/RockHead07/main/github-metrics.svg)
+<img src="/github-metrics.svg" alt="Metrics" width="400">
 
 ###
 
