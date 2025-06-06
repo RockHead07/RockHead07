@@ -1,4 +1,5 @@
-<h3 align="left">Hi 👋! My name is Bagus Insan Pradana and I'm a Junior in Informatic Engineering, from Politeknik Elektronika Negeri Surabaya!</h3>
+<h3 align="">Hi 👋! My name is Bagus Insan Pradana and I'm a Junior in Informatic Engineering, from Politeknik Elektronika Negeri Surabaya!</h3>
+
 
 ###
 
@@ -7,6 +8,8 @@
 </div>
 
 ###
+
+---
 
 ![Metrics](./metrics.svg)
 
@@ -37,7 +40,7 @@
 
 ###
 
-<img align="right" height="300" src="https://media1.tenor.com/m/xAYj92aUDLIAAAAd/guts.gif"  />
+<img align="center" height="300" src="https://media1.tenor.com/m/xAYj92aUDLIAAAAd/guts.gif"  />
 
 ###
 
@@ -61,4 +64,4 @@
 
 ### 🐍 Contribution Snake
 
-![snake gif](https://github.com/yusriltakeuchi/yusriltakeuchi/blob/output/github-snake.gif)
+![snake gif](https://github.com/RockHead07/RockHead07/blob/output/github-snake-dark.gif?raw=true)
