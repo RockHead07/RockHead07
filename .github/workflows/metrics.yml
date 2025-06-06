@@ -1,0 +1,19 @@
+name: Metrics
+
+on:
+  schedule: [{ cron: "0 * * * *" }] # every hour
+  push: { branches: ["main"] }
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate GitHub metrics
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: <your-username>
+          template: classic
+          base: header, repositories
+          config_timezone: Asia/Jakarta
