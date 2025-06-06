@@ -1,22 +1,24 @@
 name: Metrics
+
 on:
-  schedule: [{ cron: "0 0 * * 0" }]  # every Sunday
-  push: { branches: ["main"] }
+  schedule: [{ cron: "0 * * * *" }]  # Runs every hour
+  workflow_dispatch:
+
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate GitHub metrics
-        uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@latest
         with:
-          # Replace with your GitHub username
+          token: ${{ secrets.METRICS_TOKEN }}
           user: RockHead07
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Jakarta
 
-          # Enable AniList plugin
+          # 🎌 AniList Plugin Configuration
           plugin_anilist: yes
-          plugin_anilist_user: RockHead07  # 👈 Replace with your AniList username
+          plugin_anilist_user: RockHead07  # Change if your AniList username is different
           plugin_anilist_medias: anime
           plugin_anilist_sections: favorites, watching, characters, genres, scores
+          plugin_anilist_limit: 10  # Optional: number of items shown per section
