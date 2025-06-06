@@ -1,4 +1,15 @@
+# Greetings Human! 👋
+
+**I'm** *Bagus Insan Pra**Dana*** - I'm a Begginer web-developer, C-Programmer, & **PENS** Student. 
+
 <img src="/github-metrics.svg" alt="Metrics" width="400">
+
+# 🤹 My Skill
+
+[![My Skills](https://skillicons.dev/icons?i=c,html,css,js,php,mysql,postgres,powershell,ubuntu,linux,vscode)](https://skillicons.dev)
+
+---
+
 
 ###
 
