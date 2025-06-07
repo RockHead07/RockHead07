@@ -69,3 +69,18 @@ jobs:
           plugin_topics_mode: icons
           plugin_notable: yes
           plugin_discussions: yes
+
+      - name: ⌛ WakaTime Code Stats
+        uses: lowlighter/metrics@latest
+        with:
+          user: RockHead07
+          filename: wakatime.svg
+          token: ${{ secrets.TOKEN }}
+          base: ""
+          output_action: gist
+          committer_gist: ${{ secrets.GIST }}
+          plugin_wakatime: yes
+          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
+          plugin_wakatime_sections: time, languages, editors, os, projects, languages-graphs, commits
+          plugin_wakatime_limit: 5
+
