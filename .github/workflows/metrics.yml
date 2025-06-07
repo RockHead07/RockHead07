@@ -29,6 +29,9 @@ jobs:
           plugin_anilist_sections: favorites, characters, watching, reading, completed # You can add 'watching', 'reading' if you want
           plugin_anilist_limit: 6                  # 🆕 Optional: show more items
           plugin_anilist_limit_characters: 24      # Optional: adjust character count
+          plugin_music: yes
+          plugin_music_playlist: ${{ secrets.PLAYLIST }}
+          plugin_music_limit: 9
 
       - name: 🏆 Achievements
         uses: lowlighter/metrics@latest
