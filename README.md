@@ -43,23 +43,53 @@ Nice to meet you! 🌱
   </div>
 </div>
 
----
-
 ###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=RockHead07&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=graywhite&locale=en&hide_border=false&order=1" height="140" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RockHead07&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=graywhite&hide_border=false&order=2" height="100" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=RockHead07&locale=en&mode=daily&theme=graywhite&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RockHead07&radius=16&theme=high-contrast&area=true&order=5" height="200" alt="activity-graph graph"  />
-</div>
+## 📊 GitHub Stats
+
+<p align="center">
+  <!-- Left: GitHub Stats -->
+  <img width="450" height="180" src="https://github-readme-stats.vercel.app/api?username=RockHead07&show_icons=true&count_private=true&include_all_commits=true&hide_rank=false&hide_title=false&theme=dark&border_radius=10&hide_border=false" alt="GitHub Stats" />
+
+  <!-- Right: Most Used Languages -->
+  <img width="345" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RockHead07&layout=compact&langs_count=10&theme=dark&border_radius=10&hide_border=false" alt="Top Languages" />
+</p>
+
+<!-- Contribution Graph with High Contrast -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RockHead07&radius=16&theme=high-contrast&area=true&hide_border=false" width="780" alt="Contribution Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/RockHead07/RockHead07/blob/output/github-snake-dark.svg" alt="snake svg"/>
+</p>
+
 
 ###
 
 <img align="center" height="300" src="https://media1.tenor.com/m/xAYj92aUDLIAAAAd/guts.gif"  />
 
 ###
+
+# 💻 My Workspace 
+
+```bash
+ lllllllllllllll   lllllllllllllll  danab@UNKNOWN
+ lllllllllllllll   lllllllllllllll  -------------
+ lllllllllllllll   lllllllllllllll  OS: Windows 11 Home Single Language [64-bit]
+ lllllllllllllll   lllllllllllllll  Host: LENOVO 83FQ
+ lllllllllllllll   lllllllllllllll  Kernel: 10.0.26100.0
+ lllllllllllllll   lllllllllllllll  Motherboard: LENOVO LNVNB161216
+ lllllllllllllll   lllllllllllllll  Uptime: 9 hours 21 minutes
+                                    Packages: 4 (scoop)
+ lllllllllllllll   lllllllllllllll  Shell: PowerShell v7.5.1
+ lllllllllllllll   lllllllllllllll  Resolution: 1536x864
+ lllllllllllllll   lllllllllllllll  Terminal: Windows Terminal
+ lllllllllllllll   lllllllllllllll  CPU: 12th Gen Intel(R) Core(TM) i5-12450HX @ 2.688GHz
+ lllllllllllllll   lllllllllllllll  GPU: Intel(R) Arc(TM) A530M Graphics
+ lllllllllllllll   lllllllllllllll  
+ lllllllllllllll   lllllllllllllll  
+```
 
 <div align="left">
   <a href="https://www.youtube.com/@rockhead0745" target="_blank">
@@ -78,7 +108,3 @@ Nice to meet you! 🌱
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="facebook logo"  />
   </a>
 </div>
-
-### 🐍 Contribution Snake 
-
-![snake svg](https://github.com/RockHead07/RockHead07/blob/output/github-snake-dark.svg)
