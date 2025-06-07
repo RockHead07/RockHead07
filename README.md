@@ -2,19 +2,30 @@
 
 **I'm** *Bagus Insan Pra**Dana*** - I'm a Begginer web-developer, C-Programmer, & **PENS** Student. 
 
-### 📺 Media Metrics
-![Medias](https://gist.githubusercontent.com/RockHead07/a30e4cb98393938dc0429cd9eabf4147/raw/medias.svg)
+<details>
+<summary>📊 Metrics Overview</summary>
 
-### 🏆 Achievements
+<br>
+
+[<img align="left" width="390" alt="📊 General Metrics" src="https://gist.githubusercontent.com/RockHead07/a30e4cb98393938dc0429cd9eabf4147/raw/general.svg">](#)
+[<img align="right" width="390" alt="📺 Media Metrics" src="https://gist.githubusercontent.com/RockHead07/a30e4cb98393938dc0429cd9eabf4147/raw/medias.svg">](#)
+
+<br clear="both">
+
+</details>
+
+<details>
+<summary>🏆 Achievements</summary>
+
 ![Achievements](https://gist.githubusercontent.com/RockHead07/a30e4cb98393938dc0429cd9eabf4147/raw/achievements.svg)
 
-### 📊 General Metrics
-![General](https://gist.githubusercontent.com/RockHead07/a30e4cb98393938dc0429cd9eabf4147/raw/general.svg)
+</details>
 
 
 # 🤹 My Skill
 
 [![My Skills](https://skillicons.dev/icons?i=c,html,css,js,php,mysql,postgres,powershell,ubuntu,linux,vscode)](https://skillicons.dev)
+
 
 ---
 
@@ -69,6 +80,6 @@
   </a>
 </div>
 
-### 🐍 Contribution Snake (Dark, Transparent SVG)
+### 🐍 Contribution Snake 
 
 ![snake svg](https://github.com/RockHead07/RockHead07/blob/output/github-snake-dark.svg)
