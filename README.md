@@ -3,7 +3,7 @@
 **I'm** *Bagus Insan Pra**Dana*** - I'm a Begginer web-developer, C-Programmer, & **PENS** Student. 
 
 <details>
-<summary>📊 Metrics Overview</summary>
+<summary><strong>📊 METRICS OVERVIEW</strong></summary>
 
 <br>
 
@@ -15,20 +15,26 @@
 </details>
 
 <details>
-<summary>🏆 Achievements</summary>
+
+<summary><strong>🏆 ACHIEVEMENTS</strong></summary>
 
 ![Achievements](https://gist.githubusercontent.com/RockHead07/a30e4cb98393938dc0429cd9eabf4147/raw/achievements.svg)
 
 </details>
 
-
 # 🤹 My Skill
 
-[![My Skills](https://skillicons.dev/icons?i=c,html,css,js,php,mysql,postgres,powershell,ubuntu,linux,vscode)](https://skillicons.dev)
+<div align="center">
 
+| <div align="center">💻 <strong>Languages</strong></div> | <div align="center">🗄️ <strong>Databases</strong></div> |
+|----------------------------------------------------------|-----------------------------------------------------------|
+| <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c,html,css,js,php" /></a></p> | <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,postgres" /></a></p> |
+| <div align="center">🧰 <strong>Tools & IDEs</strong></div> | <div align="center">🐧 <strong>OS & Shells</strong></div> |
+| <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode,github,idea,photoshop" /></a></p> | <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=powershell,ubuntu,linux" /></a></p> |
+
+</div>
 
 ---
-
 
 ###
 
