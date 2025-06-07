@@ -1,5 +1,7 @@
 # Greetings, Human! 👋
 
+<img align="right" width="400" alt="GIF" src="https://media1.tenor.com/m/xAYj92aUDLIAAAAd/guts.gif"/>
+
 **I'm** *Bagus Insan Pra**Dana*** — a passionate and curious beginner in the world of technology.  
 Currently diving into **web development** and **C programming**, while pursuing my studies as a proud student at **PENS** *(Politeknik Elektronika Negeri Surabaya)*.  
 
@@ -8,6 +10,9 @@ When I'm not coding, you'll probably find me exploring tech communities, tinkeri
 
 Nice to meet you! 🌱
 
+<br/>
+
+#
 
 <details>
 <summary><strong>📊 METRICS OVERVIEW</strong></summary>
@@ -30,6 +35,8 @@ Nice to meet you! 🌱
 ![Achievements](https://gist.githubusercontent.com/RockHead07/a30e4cb98393938dc0429cd9eabf4147/raw/achievements.svg)
 
 </details>
+
+#
 
 # 🤹 My Skill
 
@@ -65,11 +72,6 @@ Nice to meet you! 🌱
 <p align="center">
   <img src="https://github.com/RockHead07/RockHead07/blob/output/github-snake-dark.svg" alt="snake svg"/>
 </p>
-
-
-###
-
-<img align="center" height="300" src="https://media1.tenor.com/m/xAYj92aUDLIAAAAd/guts.gif"  />
 
 ###
 
