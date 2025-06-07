@@ -25,7 +25,7 @@ jobs:
           committer_gist: ${{ secrets.GIST }}
           plugin_anilist: yes
           plugin_anilist_user: RockHead07
-          plugin_anilist_medias: anime,manga       # 🆕 Show anime & manga
+          plugin_anilist_medias: anime, manga       # 🆕 Show anime & manga
           plugin_anilist_sections: favorites, characters, watching, reading, completed # You can add 'watching', 'reading' if you want
           plugin_anilist_limit: 6                  # 🆕 Optional: show more items
           plugin_anilist_limit_characters: 24      # Optional: adjust character count
