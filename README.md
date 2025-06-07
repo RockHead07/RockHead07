@@ -19,7 +19,7 @@ Nice to meet you! 🌱
 
 <br clear="both">
 
-[<img align="center" width="800" alt="⌛ WakaTime Stats" src="https://gist.githubusercontent.com/RockHead07/a30e4cb98393938dc0429cd9eabf4147/raw/wakatime.svg">](#)
+[<img align="center" width="390" alt="⌛ WakaTime Stats" src="https://gist.githubusercontent.com/RockHead07/a30e4cb98393938dc0429cd9eabf4147/raw/wakatime.svg">](#)
 
 </details>
 
