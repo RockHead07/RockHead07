@@ -14,7 +14,11 @@ Nice to meet you! 🌱
 
 <br>
 
-<h3 align="center">🎵 Currently Listening To</h3>
+<h3 align="center">
+  <img src="https://github.com/user-attachments/assets/88bccf26-209d-46e5-b6b2-400c799295d4" width="18px" style="margin-right: 6px;" />
+  Currently Listening To
+  <img src="https://github.com/user-attachments/assets/88bccf26-209d-46e5-b6b2-400c799295d4" width="18px" style="margin-left: 6px;" />
+</h3>
 
 <p align="center">
   <a href="https://open.spotify.com/user/i23w22xhp7t12imko8x7l04vt" target="_blank">
