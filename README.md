@@ -12,6 +12,21 @@ Nice to meet you! 🌱
 
 <br/>
 
+<br>
+
+<h3 align="center">🎵 Currently Listening To</h3>
+
+<p align="center">
+  <a href="https://open.spotify.com/user/i23w22xhp7t12imko8x7l04vt" target="_blank">
+    See what I'm vibing to on Spotify
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=i23w22xhp7t12imko8x7l04vt&cover_image=false&show_offline=true&theme=default&background_color=000000&interchange=false&bar_color=e3e3e3" width="350px" />
+</p>
+
+
 #
 
 <details>
