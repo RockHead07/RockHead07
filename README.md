@@ -19,6 +19,8 @@ Nice to meet you! 🌱
 
 <br clear="both">
 
+[<img align="center" width="800" alt="⌛ WakaTime Stats" src="https://gist.githubusercontent.com/RockHead07/a30e4cb98393938dc0429cd9eabf4147/raw/wakatime.svg">](#)
+
 </details>
 
 <details>
@@ -80,10 +82,10 @@ Nice to meet you! 🌱
  lllllllllllllll   lllllllllllllll  Host: LENOVO 83FQ
  lllllllllllllll   lllllllllllllll  Kernel: 10.0.26100.0
  lllllllllllllll   lllllllllllllll  Motherboard: LENOVO LNVNB161216
- lllllllllllllll   lllllllllllllll  Uptime: 9 hours 21 minutes
+ lllllllllllllll   lllllllllllllll  Uptime: Unlimited ∞
                                     Packages: 4 (scoop)
  lllllllllllllll   lllllllllllllll  Shell: PowerShell v7.5.1
- lllllllllllllll   lllllllllllllll  Resolution: 1536x864
+ lllllllllllllll   lllllllllllllll  Resolution: 1280x1080
  lllllllllllllll   lllllllllllllll  Terminal: Windows Terminal
  lllllllllllllll   lllllllllllllll  CPU: 12th Gen Intel(R) Core(TM) i5-12450HX @ 2.688GHz
  lllllllllllllll   lllllllllllllll  GPU: Intel(R) Arc(TM) A530M Graphics
