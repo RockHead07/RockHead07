@@ -1,4 +1,4 @@
-# Greetings, Human! 👋
+# Greetings, Human! ![Image](https://github.com/user-attachments/assets/ffcf9bf3-f210-4a62-ba85-a8b25c05f016)
 
 <img align="right" width="400" alt="GIF" src="https://media1.tenor.com/m/xAYj92aUDLIAAAAd/guts.gif"/>
 
