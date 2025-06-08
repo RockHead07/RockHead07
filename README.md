@@ -2,7 +2,7 @@
 
 <img align="right" width="400" alt="GIF" src="https://media1.tenor.com/m/xAYj92aUDLIAAAAd/guts.gif"/>
 
-**I'm** *Bagus Insan Pra**Dana*** — a passionate and curious beginner in the world of technology.  
+**I'm** *Bagus Insan Pra**Dana*** <img src="https://github.com/user-attachments/assets/0a4dc827-ccbe-4c78-a782-ca7ae603aca3" width="15px" /> — a passionate and curious beginner in the world of technology.  
 Currently diving into **web development** and **C programming**, while pursuing my studies as a proud student at **PENS** *(Politeknik Elektronika Negeri Surabaya)*.  
 
 I enjoy building things from scratch, learning how systems work behind the scenes, and constantly pushing myself to grow — one line of code at a time.  
@@ -57,7 +57,13 @@ Nice to meet you! 🌱
 
 #
 
-# 🤹 My Skill
+# 🤹 My Skills  
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/d508955c-9944-4f22-8ddc-79e0d8859054" alt="Skill GIF" />
+</div>
+
+
 
 <div align="center">
   <div style="display:inline-block; text-align:center; width:800px;">
