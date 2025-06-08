@@ -100,6 +100,18 @@ Nice to meet you! 🌱
 
 ###
 
+<details>
+  <summary><strong>🎮I"M A GAMER📍</strong></summary>
+
+</br>
+
+<div align="center">
+  <img src="https://github-readme-steam-card.vercel.app/status/?steamid=76561198372356977&show_in_game_bg=true" />
+</div>
+
+
+</details>
+
 # 💻 My Workspace 
 
 ```bash
