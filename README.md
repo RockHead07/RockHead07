@@ -101,14 +101,29 @@ Nice to meet you! 🌱
 ###
 
 <details>
-  <summary><strong>🎮I"M A GAMER📍</strong></summary>
+  <summary><strong>🎮 I'M A GAMER 📍</strong></summary>
 
 </br>
 
-<div align="center">
-  <img src="https://github-readme-steam-card.vercel.app/status/?steamid=76561198372356977&show_in_game_bg=true" />
-</div>
+### 🎮 Steam Profile
 
+<img src="https://github-readme-steam-card.vercel.app/status/?steamid=76561198372356977&show_in_game_bg=true" />
+
+Casual, chill, low-pace _**gamer**_.
+
+#
+
+### 🪩 osu!mania Profile
+
+![osu!mania stats for RockHead07](https://lemmmy.pw/osusig/sig.php?colour=pink&uname=RockHead07&mode=3&pp=1&countryrank=1&flagshadow)
+
+Player since 2019 — I'm a 🎹*mania player*!  
+If you're interested in my ***osu!*** profile, check it down below here:  
+👉 [osu.ppy.sh/users/15394990](https://osu.ppy.sh/users/15394990)
+
+</details>
+
+#
 
 </details>
 
