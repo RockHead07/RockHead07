@@ -143,7 +143,7 @@ If you're interested in my ***osu!*** profile, check it down below here:
  lllllllllllllll   lllllllllllllll  Terminal: Windows Terminal
  lllllllllllllll   lllllllllllllll  CPU: 12th Gen Intel(R) Core(TM) i5-12450HX @ 2.688GHz
  lllllllllllllll   lllllllllllllll  GPU: Intel(R) Arc(TM) A530M Graphics
- lllllllllllllll   lllllllllllllll  
+ lllllllllllllll   lllllllllllllll  RAM: 1x8 + 1x16 Gb DDR5 Sodimm
  lllllllllllllll   lllllllllllllll  
 ```
 
