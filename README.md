@@ -70,9 +70,9 @@ Nice to meet you! 🌱
 
 | <div align="center">💻 <strong>Languages</strong></div> | <div align="center">🗄️ <strong>Databases</strong></div> |
 |----------------------------------------------------------|-----------------------------------------------------------|
-| <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c,html,css,js,php" /></a></p> | <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,postgres,mongo" /></a></p> |
+| <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c,html,css,js,php" /></a></p> | <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,postgres,mongo,supabase" /></a></p> |
 | <div align="center">🧰 <strong>Tools & IDEs</strong></div> | <div align="center">🐧 <strong>OS & Shells</strong></div> |
-| <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode,github,idea,photoshop" /></a></p> | <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=windows,powershell,ubuntu,linux" /></a></p> |
+| <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode,github,photoshop" /></a></p> | <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=windows,powershell,ubuntu,linux" /></a></p> |
 
   </div>
 </div>
