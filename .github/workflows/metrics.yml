@@ -42,7 +42,10 @@ jobs:
           base: ""
           output_action: gist
           committer_gist: ${{ secrets.GIST }}
-          plugin_achievements: yes
+          # Disabled: the plugin still queries Projects (classic), which GitHub has removed,
+          # so it always renders "Unexpected error". Re-enable once lowlighter/metrics merges
+          # a Projects V2 fix.
+          plugin_achievements: no
           plugin_achievements_display: compact
           plugin_fortune: yes
 
