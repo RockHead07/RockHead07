@@ -35,6 +35,15 @@ jobs:
     permissions:
       contents: write
     steps:
+      # The publish step replaces the whole output branch, so the graph must land in dist too.
+      # Download before snk: it runs in Docker as root and leaves dist unwritable for the runner.
+      - name: Download the activity graph
+        uses: actions/download-artifact@v8
+        continue-on-error: true
+        with:
+          name: activity-graph
+          path: dist
+
       - name: Generate the snake animation
         uses: Platane/snk@v3
         with:
@@ -44,14 +53,6 @@ jobs:
             dist/github-snake-dark.svg?palette=github-dark
             dist/github-snake.gif
             dist/github-snake-dark.gif?palette=github-dark
-
-      # The publish step replaces the whole output branch, so the graph must land in dist too.
-      - name: Download the activity graph
-        uses: actions/download-artifact@v8
-        continue-on-error: true
-        with:
-          name: activity-graph
-          path: dist
 
       - name: Push to the output branch
         uses: crazy-max/ghaction-github-pages@v5
