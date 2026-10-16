@@ -29,7 +29,9 @@ jobs:
           plugin_anilist_sections: favorites, characters, watching, reading, completed # You can add 'watching', 'reading' if you want
           plugin_anilist_limit: 6                  # 🆕 Optional: show more items
           plugin_anilist_limit_characters: 24      # Optional: adjust character count
-          plugin_music: yes
+          # Disabled: playlist mode is not wanted, and the README's Spotify card already shows
+          # what is playing now.
+          plugin_music: no
           plugin_music_playlist: ${{ secrets.PLAYLIST }}
           plugin_music_limit: 9
 
