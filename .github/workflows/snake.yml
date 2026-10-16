@@ -6,8 +6,34 @@ on:
   workflow_dispatch:
 
 jobs:
+  # Replaces the public github-readme-activity-graph.vercel.app instance, which is down.
+  # Runs in its own read-only job because the action is third-party; pinned to a reviewed commit.
+  activity-graph:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - name: Generate the activity graph
+        uses: maurodesouza/github-readme-activity-graph-action@9b38b03cac7ffb9f093a82f0ea9c634d5df62297
+        with:
+          username: RockHead07
+          options: radius=16&theme=high-contrast&area=true&hide_border=false
+          output_path: dist/activity-graph.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Upload the activity graph
+        uses: actions/upload-artifact@v7
+        with:
+          name: activity-graph
+          path: dist/activity-graph.svg
+
   generate:
     runs-on: ubuntu-latest
+    needs: activity-graph
+    # Still publish the snake if the activity graph job fails.
+    if: ${{ !cancelled() }}
+    permissions:
+      contents: write
     steps:
       - name: Generate the snake animation
         uses: Platane/snk@v3
@@ -18,6 +44,14 @@ jobs:
             dist/github-snake-dark.svg?palette=github-dark
             dist/github-snake.gif
             dist/github-snake-dark.gif?palette=github-dark
+
+      # The publish step replaces the whole output branch, so the graph must land in dist too.
+      - name: Download the activity graph
+        uses: actions/download-artifact@v8
+        continue-on-error: true
+        with:
+          name: activity-graph
+          path: dist
 
       - name: Push to the output branch
         uses: crazy-max/ghaction-github-pages@v5

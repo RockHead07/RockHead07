@@ -91,7 +91,7 @@ Nice to meet you! 🌱
 
 <!-- Contribution Graph with High Contrast -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RockHead07&radius=16&theme=high-contrast&area=true&hide_border=false" width="780" alt="Contribution Graph" />
+  <img src="https://raw.githubusercontent.com/RockHead07/RockHead07/output/activity-graph.svg" width="780" alt="Contribution Graph" />
 </p>
 
 <p align="center">
