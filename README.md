@@ -27,7 +27,9 @@ Nice to meet you! 🌱
 </p>
 
 <p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=i23w22xhp7t12imko8x7l04vt&cover_image=false&show_offline=true&theme=default&background_color=000000&interchange=false&bar_color=e3e3e3" width="350px" />
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=i23w22xhp7t12imko8x7l04vt&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=i23w22xhp7t12imko8x7l04vt&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false&mode=dark" alt="spotify-github-profile" />
+  </a>
 </p>
 
 
