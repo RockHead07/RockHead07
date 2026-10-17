@@ -68,15 +68,36 @@ Nice to meet you! 🌱
 
 
 <div align="center">
-  <div style="display:inline-block; text-align:center; width:800px;">
-
-| <div align="center">💻 <strong>Languages</strong></div> | <div align="center">🗄️ <strong>Databases</strong></div> |
-|----------------------------------------------------------|-----------------------------------------------------------|
-| <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c,html,css,js,php" /></a></p> | <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,postgres,mongo,supabase" /></a></p> |
-| <div align="center">🧰 <strong>Tools & IDEs</strong></div> | <div align="center">🐧 <strong>OS & Shells</strong></div> |
-| <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode,github,photoshop" /></a></p> | <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=windows,powershell,ubuntu,linux" /></a></p> |
-
-  </div>
+<table>
+  <tr>
+    <td><strong>💻 Languages</strong></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/c/c-original.svg" width="40" height="40" alt="C" /><br /><sub>C</sub></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" /><br /><sub>HTML5</sub></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" /><br /><sub>CSS3</sub></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" /><br /><sub>JavaScript</sub></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/php/php-original.svg" width="40" height="40" alt="PHP" /><br /><sub>PHP</sub></td>
+  </tr>
+  <tr>
+    <td><strong>🗄️ Databases</strong></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" /><br /><sub>MySQL</sub></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" /><br /><sub>PostgreSQL</sub></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" /><br /><sub>MongoDB</sub></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/supabase/supabase-original.svg" width="40" height="40" alt="Supabase" /><br /><sub>Supabase</sub></td>
+  </tr>
+  <tr>
+    <td><strong>🧰 Tools & IDEs</strong></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" /><br /><sub>VS Code</sub></td>
+    <td align="center" width="96"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/ffffff" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/github/github-original.svg" width="40" height="40" alt="GitHub" /></picture><br /><sub>GitHub</sub></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/photoshop/photoshop-original.svg" width="40" height="40" alt="Photoshop" /><br /><sub>Photoshop</sub></td>
+  </tr>
+  <tr>
+    <td><strong>🐧 OS & Shells</strong></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/windows11/windows11-original.svg" width="40" height="40" alt="Windows" /><br /><sub>Windows</sub></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/powershell/powershell-original.svg" width="40" height="40" alt="PowerShell" /><br /><sub>PowerShell</sub></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/ubuntu/ubuntu-original.svg" width="40" height="40" alt="Ubuntu" /><br /><sub>Ubuntu</sub></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" /><br /><sub>Linux</sub></td>
+  </tr>
+</table>
 </div>
 
 ###
